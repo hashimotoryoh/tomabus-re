@@ -8,7 +8,7 @@ layout: default
 # ダウンロード
 
 <a href="https://apps.apple.com/jp/app/id951070715" target="_blank">
-  <img src="{{ 'assets/appstore_button.png' }}" width="250" />
+  <img src="{{ '/assets/appstore_button.png' }}" width="250" />
 </a>
 
 ※ 現在はiOS版のみのリリースとなっております。
@@ -30,7 +30,7 @@ layout: default
 | | バージョン | 日付 |
 |:---|:---|:---|
 | 初版リリース | 1.0 | 2015-01-08 |
-| 最新リリース | [5.5.3](./pages/releases/5.5.3.md) | 2019-11-11 |
+| 最新リリース | [5.5.3](/pages/releases/5.5.3) | 2019-11-11 |
 
 ※ 時刻表データはアプリの更新を伴わず、最新のものを取得できるようになっています。
 
@@ -44,7 +44,7 @@ layout: default
 
 # サイトマップ
 
-- [トップ(here)](./)
-- [リリースノート](./pages/releases/releases.md)
-  - [最新リリース](./pages/releases/latest_release.md)
-- [ヘルプ](./pages/help.md)
+- [トップ(here)](/)
+- [リリースノート](/pages/releases/releases)
+  - [最新リリース](/pages/releases/latest_release)
+- [ヘルプ](/pages/help)
