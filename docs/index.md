@@ -8,7 +8,7 @@ layout: default
 # ダウンロード
 
 <a href="https://apps.apple.com/jp/app/id951070715" target="_blank">
-  <img src="{{ '/assets/img/appstore_button.png' }}" width="250" />
+  <img src="{{ './assets/img/appstore_button.png' }}" width="250" />
 </a>
 
 ※ 現在はiOS版のみのリリースとなっております。
