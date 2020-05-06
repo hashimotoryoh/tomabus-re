@@ -15,7 +15,7 @@ layout: default
     {% for post in site.posts %}
       {% if post.category == 'releases' %}
         <tr>
-          <td><a href="{{ post.url | prepend: site.url }}">{{ post.version }}</a></td>
+          <td><a href="{{ post.url | relative_url }}">{{ post.version }}</a></td>
           <td>{{ post.release_date }}</td>
         </tr>
       {% endif %}
