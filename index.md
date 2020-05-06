@@ -45,6 +45,6 @@ layout: default
 # サイトマップ
 
 - [トップ(here)](/)
-- [リリースノート](/pages/releases/releases)
-  - [最新リリース](/pages/releases/latest_release)
-- [ヘルプ](/pages/help)
+- [リリースノート](/releases)
+  <!-- - [最新リリース](/latest_release) -->
+- [ヘルプ](/help)

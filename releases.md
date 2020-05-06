@@ -4,10 +4,28 @@ layout: default
 
 # リリースノート
 
-| バージョン | 日付 |
-|:---|:---|
-| [5.5.3](/pages/releases/5.5.3) | 2019-11-11 |
-| これより以前のリリースノートはありません | |
+<table>
+  <thead>
+    <tr>
+      <th>バージョン</th>
+      <th>日付</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.posts %}
+      {% if post.category == 'releases' %}
+        <tr>
+          <td><a href="{{ post.url }}">{{ post.version }}</a></td>
+          <td>{{ post.release_date }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+    <tr>
+      <td>これより以前のリリースノートはありません</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
-[トップ](/) > [リリースノート](/releases) > 5.5.3
+[トップ](/) > [リリースノート](/releases)
