@@ -7,7 +7,7 @@ layout: default
 
 # ダウンロード
 
-<a href="https://apps.apple.com/jp/app/id951070715" target="_blank">
+<a href="{{ site.store_url.appstore }}" target="_blank">
   <img src="{{ './assets/img/appstore_button.png' }}" width="250" />
 </a>
 
