@@ -26,6 +26,3 @@ layout: default
     </tr>
   </tbody>
 </table>
-
-
-[トップ](/) > [リリースノート](/releases)
