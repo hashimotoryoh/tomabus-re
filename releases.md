@@ -10,4 +10,4 @@ layout: default
 | これより以前のリリースノートはありません | |
 
 
-[トップ](/) > [リリースノート](/pages/releases/releases) > 5.5.3
+[トップ](/) > [リリースノート](/releases) > 5.5.3

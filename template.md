@@ -3,4 +3,4 @@
 {{ page.note }}
 
 
-[トップ](/) > [リリースノート](/pages/releases/releases) > {{ page.version }}
+[トップ](/) > [リリースノート](/releases) > {{ page.version }}
